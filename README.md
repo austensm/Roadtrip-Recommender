@@ -18,6 +18,7 @@
 
 ### Decision Tree
 - **Gini splitting:** chosen for ease of implementation and good performance
+  
     ![Alt text](context/Gini.png?raw=true "Equation of Gini Index")
 - **Tree Structure**
     - Nodes either have 2 child nodes (feature node) or no child nodes (label node).
